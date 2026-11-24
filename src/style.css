@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Lora", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+  --color-areia: #F5F1EA;
+  --color-pedra: #E6DFD3;
+  --color-floresta: #3D5A50;
+  --color-floresta-dark: #2E463E;
+  --color-terracota: #B86B58;
+  --color-grafite: #1D2623;
+  --color-grafite-soft: #3D4A45;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    background-color: var(--color-areia);
+    color: var(--color-grafite);
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-serif);
+    color: var(--color-grafite);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-floresta);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+}
+
+@media print {
+  .no-print {
+    display: none !important;
+  }
+
+  body {
+    background-color: #FFFFFF !important;
+  }
+
+  section {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}
