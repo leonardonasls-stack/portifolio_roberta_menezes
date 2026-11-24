@@ -1,6 +1,6 @@
 # PRD Indicativo — Portfólio Profissional: Psicologia em Prática
 
-**Status:** Em Construção (Conteúdo Principal Recebido — Aguardando Itens Finais)  
+**Status:** Concluído (Implementado e Validado)  
 **Contexto:** Atividade Avaliativa (Tópicos II — Av. 3 | Valor: 7,0 pontos | Entrega: 24/11/2026)  
 **Objetivo do Produto:** Criar um portfólio profissional (site + versão pronta para impressão/PDF de 6 a 10 páginas) que apresente a trajetória, competências e a proposta de atuação/serviço ético da estudante.
 
@@ -20,9 +20,10 @@
 
 ### Seção 01 — Apresentação & Posicionamento ("Quem sou eu?")
 - **Nome completo:** Roberta Santos da Silva de Menezes *(Preenchido)*
+- **Nome e subtítulo no cabeçalho:** Roberta Menezes — *Psicóloga Clínica* *(Implementado)*
 - **Identidade profissional:** Estudante do 10º período de Psicologia (CESMAC) • Interesse em Psicologia Clínica (público adulto) • Abordagem: Gestalt-terapia *(Preenchido)*
 - **Minibiografia:** Recebida (empatia, escuta qualificada, acolhimento, respeito à singularidade e ética). *(Preenchido)*
-- **Foto profissional:** `foto_perfil.jpeg` (na raiz do projeto) *(Preenchido)*
+- **Foto profissional:** `public/foto_perfil.jpeg` *(Implementado)*
 - **Identidade Visual (Paleta "Refúgio com Presença"):**
   - Fundo Principal: Areia Clara (`#F5F1EA`)
   - Fundo Secundário: Bege Pedra (`#E6DFD3`)
