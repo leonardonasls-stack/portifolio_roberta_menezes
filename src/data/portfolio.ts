@@ -33,7 +33,7 @@ export const portfolioData = {
       'Dedico-me à compreensão dos processos emocionais, do comportamento humano e das vivências que atravessam a saúde mental, construindo uma atuação fundamentada na escuta qualificada, no acolhimento e no respeito à singularidade de cada história.',
     ],
     approachText:
-      'Minha prática é orientada pela Gestalt-terapia, abordagem que compreende o ser humano de forma integral e singular. O olhar clínico volta-se para a experiência presente, os sentimentos, as relações e o modo como cada pessoa estabelece contato consigo mesma e com o mundo ao seu redor, favorecendo a consciência e novas possibilidades de desenvolvimento.',
+      'Minha formação e futura atuação são orientadas pela Gestalt-terapia, abordagem que compreende o ser humano de forma integral e singular. O olhar clínico volta-se para a experiência presente, os sentimentos, as relações e o modo como cada pessoa estabelece contato consigo mesma e com o mundo ao seu redor, favorecendo a consciência e novas possibilidades de desenvolvimento.',
   },
   trajectory: {
     internship: {
